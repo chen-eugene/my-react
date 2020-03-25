@@ -19,4 +19,8 @@
     <td><a href="https://github.com/LogRocket/redux-logger">redux-logger</a></td>
     <td>react-redux日志打印</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/timarney/react-app-rewired">react-app-rewired</a></td>
+    <td>修改CRA配置的工具</td>
+  </tr>
 </table>
